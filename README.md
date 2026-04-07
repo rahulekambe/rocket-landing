@@ -88,11 +88,11 @@ Run the app and adjust:
 - `Initial height (m)` – starting `y`
 - `Fuel (kg)` – initial remaining propellant
 - `Target position x (m)` – desired landing-zone x coordinate
-- Optional `Advanced (wind)` settings – wind amplitude, frequency, and wind drag coefficient
+- `Advanced (wind)` settings – wind amplitude, frequency, and wind drag coefficient
 - Visualization:
   - trajectory plot (up to a selected animation frame)
   - moving rocket marker via the **Animation frame** slider
-  - optional `Live animation` to preview the descent quickly
+  - `Live animation` to preview the descent quickly
 
 ## Metrics shown after a run
 
