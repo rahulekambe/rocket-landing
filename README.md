@@ -9,7 +9,7 @@ This project simulates a **2D rocket** descending from an initial height to a **
 
 ## How the simulation works
 
-### 1) Rocket dynamics (physics step)
+### 1) Rocket dynamics 
 The rocket is modeled as a **point mass** in 2D with state:
 
 `x` (horizontal position), `y` (height above ground), `vx`, `vy`, and remaining `fuel`.
@@ -35,7 +35,7 @@ Wind is a sinusoidal gust:
 
 This keeps the disturbance realistic enough to test controller stability.
 
-### 3) Touchdown detection + scoring
+### 3) Touchdown detection 
 The simulation runs until `y <= 0` (ground). When touchdown happens, the code interpolates the final step to estimate:
 
 - touchdown time
