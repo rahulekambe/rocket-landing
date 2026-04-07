@@ -1,11 +1,6 @@
 # Rocket Simulation ( with Streamlit)
 
-This project simulates a **2D rocket** descending from an initial height to a **target landing zone** (a desired x-position on the ground). It includes:
-
-- **Physics**: gravity, thrust with gimbal angle, and **fuel consumption**
-- **Disturbance**: a simple **wind gust** model causing lateral acceleration
-- **Autopilot** (AI control logic): an onboard controller that chooses **thrust magnitude** and **gimbal angle** to land smoothly
-- **Streamlit UI**: interactive inputs + real-time visualization and landing metrics
+This project simulates a **2D rocket** descending from an initial height to a **target landing zone** 
 
 ## How the simulation works
 
