@@ -1,4 +1,4 @@
-# Rocket Booster Lnading Simulation
+# Rocket Booster Landing Simulation
 This project simulates a **2D rocket** descending from an initial height to a **target landing zone** 
 
 ## How the simulation works
